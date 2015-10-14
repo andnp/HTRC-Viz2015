@@ -1,0 +1,297 @@
+name,MARC
+Afghanistan,af 
+Albania,aa 
+Algeria,ae 
+American Samoa,as 
+Andorra,an 
+Angola,ao 
+Anguilla,am 
+Antarctica,ay 
+Antigua and Barbuda,aq 
+Argentina,ag 
+Armenia,ai 
+Aruba,aw 
+Australia,at 
+Austria,au 
+Azerbaijan,aj 
+Bahamas,bf 
+Bahrain,ba 
+Bangladesh,bg 
+Barbados,bb 
+Belarus,bw 
+Belgium,be 
+Belize,bh 
+Benin,dm 
+Bermuda,bm 
+Bhutan,bt 
+"Bolivia, Plurinational State of",bo 
+"Bonaire, Sint Eustatius and Saba",ca 
+Bosnia and Herzegovina,bn 
+Botswana,bs 
+Bouvet Island,bv 
+Brazil,bl 
+British Indian Ocean Territory,bi 
+Brunei Darussalam,bx 
+Bulgaria,bu 
+Burkina Faso,uv 
+Burundi,bd 
+Cambodia,cb 
+Cameroon,cm 
+Canada,xxc
+Cape Verde,cv 
+Cayman Islands,cj 
+Central African Republic,cx 
+Chad,cd 
+Chile,cl 
+China,cc 
+Christmas Island,xa 
+Cocos (Keeling) Islands,xb 
+Colombia,ck 
+Comoros,cq 
+Congo,cf 
+"Congo, the Democratic Republic of the",cg 
+Cook Islands,cw 
+Costa Rica,cr 
+Croatia,ci 
+Cuba,cu 
+Curaçao,co 
+Cyprus,cy 
+Czech Republic,xr 
+Côte dIvoire,iv 
+Denmark,dk 
+Djibouti,ft 
+Dominica,dq 
+Dominican Republic,dr 
+Ecuador,ec 
+Egypt,ua 
+El Salvador,es 
+Equatorial Guinea,eg 
+Eritrea,ea 
+Estonia,er 
+Ethiopia,et 
+Falkland Islands (Malvinas),fk 
+Faroe Islands,fa 
+Fiji,fj 
+Finland,fi 
+France,fr 
+French Guiana,fg 
+French Polynesia,fp 
+French Southern Territories,fs 
+Gabon,go 
+Gambia,gm 
+Georgia,gs 
+Germany,gw 
+Ghana,gh 
+Gibraltar,gi 
+Greece,gr 
+Greenland,gl 
+Grenada,gd 
+Guadeloupe,gp 
+Guam,gu 
+Guatemala,gt 
+Guernsey,uik
+Guinea,gv 
+Guinea-Bissau,pg 
+Guyana,gy 
+Haiti,ht 
+Heard Island and McDonald Islands,hm 
+Holy See (Vatican City State),vc 
+Honduras,ho 
+Hungary,hu 
+Iceland,ic 
+India,ii 
+Indonesia,io 
+"Iran, Islamic Republic of",ir 
+Iraq,iq 
+Ireland,ie 
+Isle of Man,uik
+Israel,is 
+Italy,it 
+Jamaica,jm 
+Japan,ja 
+Jersey,uik
+Jordan,jo 
+Kazakhstan,kz 
+Kenya,ke 
+Kiribati,gb 
+"Korea, Democratic Peoples Republic of",kn 
+"Korea, Republic of",ko 
+Kuwait,ku 
+Kyrgyzstan,kg 
+Lao Peoples Democratic Republic,ls 
+Latvia,lv 
+Lebanon,le 
+Lesotho,lo 
+Liberia,lb 
+Libya,ly 
+Liechtenstein,lh 
+Lithuania,li 
+Luxembourg,lu 
+"Macedonia, the Former Yugoslav Republic of",xn 
+Madagascar,mg 
+Malawi,mw 
+Malaysia,my 
+Maldives,xc 
+Mali,ml 
+Malta,mm 
+Marshall Islands,xe 
+Martinique,mq 
+Mauritania,mu 
+Mauritius,mf 
+Mayotte,ot 
+Mexico,mx 
+"Micronesia, Federated States of",fm 
+"Moldova, Republic of",mv 
+Monaco,mc 
+Mongolia,mp 
+Montenegro,mo 
+Montserrat,mj 
+Morocco,mr 
+Mozambique,mz 
+Myanmar,br 
+Namibia,sx 
+Nauru,nu 
+Nepal,np 
+Netherlands,ne 
+New Caledonia,nl 
+New Zealand,nz 
+Nicaragua,nq 
+Niger,ng 
+Nigeria,nr 
+Niue,xh 
+Norfolk Island,nx 
+Northern Mariana Islands,nw 
+Norway,no 
+Oman,mk 
+Pakistan,pk 
+Palau,pw 
+"Palestine, State of",gz 
+Panama,pn 
+Papua New Guinea,pp 
+Paraguay,py 
+Peru,pe 
+Philippines,ph 
+Pitcairn,pc 
+Poland,pl 
+Portugal,po 
+Puerto Rico,pr 
+Qatar,qa 
+Romania,rm 
+Russian Federation,ru 
+Rwanda,rw 
+Réunion,re 
+Saint Barthélemy,sc 
+"Saint Helena, Ascension and Tristan da Cunha",xj 
+Saint Kitts and Nevis,xd 
+Saint Lucia,xk 
+Saint Martin (French part),st 
+Saint Pierre and Miquelon,xl 
+Saint Vincent and the Grenadines,xm 
+Samoa,ws 
+San Marino,sm 
+Sao Tome and Principe,sf 
+Saudi Arabia,su 
+Senegal,sg 
+Serbia,rb 
+Seychelles,se 
+Sierra Leone,sl 
+Singapore,si 
+Sint Maarten (Dutch part),sn 
+Slovakia,xo 
+Slovenia,xv 
+Solomon Islands,bp 
+Somalia,so 
+South Africa,sa 
+South Georgia and the South Sandwich Islands,xs 
+South Sudan,sd 
+Spain,sp 
+Sri Lanka,ce 
+Sudan,sj 
+Suriname,sr 
+Swaziland,sq 
+Sweden,sw 
+Switzerland,sz 
+Syrian Arab Republic,sy 
+"Taiwan, Province of China",ch 
+Tajikistan,ta 
+"Tanzania, United Republic of",tz 
+Thailand,th 
+Timor-Leste,em 
+Togo,tg 
+Tokelau,tl 
+Tonga,to 
+Trinidad and Tobago,tr 
+Tunisia,ti 
+Turkey,tu 
+Turkmenistan,tk 
+Turks and Caicos Islands,tc 
+Tuvalu,tv 
+Uganda,ug 
+Ukraine,un 
+United Arab Emirates,ts 
+United Kingdom,xxk
+United States,xxu
+United States Minor Outlying Islands,ji 
+Uruguay,uy 
+Uzbekistan,uz 
+Vanuatu,nn 
+"Venezuela, Bolivarian Republic of",ve 
+Viet Nam,vm 
+"Virgin Islands, British",vb 
+"Virgin Islands, U.S.",vi 
+Wallis and Futuna,wf 
+Western Sahara,ss 
+Yemen,ye 
+Zambia,za 
+Zimbabwe,rh 
+Alaska,aku
+Alabama,alu
+Arkansas,aru
+Arizona,azu
+California,cau
+Colorado,cou
+Connecticut,ctu
+District of Columbia,dcu
+Delaware,deu
+Florida,flu
+Georgia,gau
+Hawaii,hiu
+Iowa,iau
+Idaho,idu
+Illinois,ilu
+Indiana,inu
+Kansas,ksu
+Kentucky,kyu
+Louisiana,lau
+Massachusetts,mau
+Maryland,mdu
+Maine,meu
+Michigan,miu
+Minnesota,mnu
+Missouri,mou
+Mississippi,msu
+Montana,mtu
+Nebraska,nbu
+North Carolina,ncu
+North Dakota,ndu
+New Hampshire,nhu
+New Jersey,nju
+New Mexico,nmu
+Nevada,nvu
+New York,nyu
+Ohio,ohu
+Oklahoma,oku
+Ontario,onc
+Oregon,oru
+Pennsylvania,pau
+Rhode Island,riu
+Russian SFSR,rur
+South Carolina,scu
+South Dakota,sdu
+Tennessee,tnu
+Texas,txu
+Utah,utu
+Virginia,vau
+Wisconsin,wiu
+Czechoslovakia,cs 
+England,enk
